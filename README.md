@@ -1,2 +1,2 @@
 # NON-INVASIVE-BLOOD-GLUCOSE-MEASUREMENT-USING-NEAR--INFRAME-SPECTROSCOPY-AND-ARTIFICIAL-INTELLIGENCE
-This project focus on find the week token base on CLS attention and relevance text prompt and merge it to reduce latency and make VLMs more stronger
+This project is thesis [📄 Thesis](https://drive.google.com/file/d/1J9sLnxg-8vdfhpK4DywxVm-kVhrDq6bC/view?usp=sharing) and publish at MAPR2023 and ISDS2025
